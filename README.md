@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoeDarkness
-- 👀 I’m interested in YO MOMMA
+- 👀 I’m interested in gaming and chess
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on YO MOMMA
 - 📫 How to reach me... DON'T
