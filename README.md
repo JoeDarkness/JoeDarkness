@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @JoeDarkness
-- 👀 I’m interested in gaming and chess
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on YO MOMMA
-- 📫 How to reach me... DON'T
+- 👀 I’m interested in prgramming
+- 🌱 I’m currently a student in Helwan University
+- 💞️ I’m looking to collaborate on...
+- 📫 How to reach me : yousefahmedkamaleldin@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am going nuts
+- ⚡ Fun fact: gym enthusiast
 
 <!---
 JoeDarkness/JoeDarkness is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
